@@ -1,10 +1,11 @@
 import:
-  - ~/.config/alacritty/catppuccin/catppuccin-latte.yml
+  - ~/.config/alacritty/catppuccin/catppuccin-mocha.yml
 live_config_reload: true
+window:
+  opacity: 0.95
 font:
   normal:
     family: "SauceCodePro Nerd Font"
   size: 14.0
 #shell:
   #program: /opt/homebrew/bin/tmux
-
