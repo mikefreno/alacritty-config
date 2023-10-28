@@ -1,8 +1,13 @@
 import:
   - ~/.config/alacritty/catppuccin/catppuccin-mocha.yml
 live_config_reload: true
+ligatures: true
 window:
-  opacity: 0.95
+  opacity: 0.85
+  decorations: 'transparent' 
+  padding:
+    x: 2
+    y: 24
 font:
   normal:
     family: "SauceCodePro Nerd Font"
